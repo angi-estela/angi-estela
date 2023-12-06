@@ -1,14 +1,17 @@
 ## Estela Ángel GoVi
-> 🦻 Sorda con Implante Coclear.
+- 🦻 Sorda con Implante Coclear.
 
-> 🎮 Gamer
+- 🖥 Diseñadora e ilustradora freelance.
+
+- 🎮🏳️‍⚧️ Gamer y bien queer.
+
+<br>
+
+> 🎓 Ingeniería en tecnoligías de la Información y Diseño industrial.
 
 > 🏠 Puebla, Pue. México.
 
-### Sobre mi
-- 🎓 Estudiante de ITI en la BUAP.
-- 💻 Diseñadora e ilustradora freelance.
-- 🏳️‍⚧️ Pronombres: ella
+<br>
 
 ### Habilidades
 <table border="0">
@@ -29,7 +32,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=leaflet&logoColor=F33070"/>
       <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
-      <img src="https://img.shields.io/badge/Illustrator-260600?style=for-the-badge&logo=adobeillustrator&logoColor=ff401f"/>
+      <img src="https://img.shields.io/badge/Adobe Illustrator-260600?style=for-the-badge&logo=adobeillustrator&logoColor=ff401f"/>
       <img src="https://img.shields.io/badge/Autodesk-e6084f?style=for-the-badge&logo=autodesk&logoColor=white"/>
       </td>
     <td align="center">
