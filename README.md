@@ -3,7 +3,7 @@
 
 - 🖥 Diseñadora e ilustradora freelance.
 
-- 🎮🏳️‍⚧️ Gamer y bien queer.
+- 🎮🏳️‍⚧️ Gamer y bien Queer.
 
 <br>
 
