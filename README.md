@@ -1,4 +1,4 @@
-## Estela Govi
+## Estela Ángel GoVi
 > 🦻 Sorda con Implante Coclear.
 
 > 🎮 Gamer
