@@ -2,7 +2,7 @@
 
 > Sorda con Implante Coclear
 
-- Puebla, Pue. México.
+> Puebla, Pue. México.
 
 > Diseñadora freelance.
 
