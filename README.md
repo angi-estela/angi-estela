@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**angi-estela/angi-estela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ##  Estela Govi
 
 > Sorda con Implante Coclear
@@ -23,4 +18,4 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
--->
+
