@@ -5,7 +5,7 @@
 
 <br>
 
-> 🎓 Ingeniería en tecnoligías de la Información y Diseño industrial.
+> 🎓 Ingeniería en Tecnoligías de la Información y Diseño industrial.
 
 > 🏠 Puebla, Pue. México.
 
