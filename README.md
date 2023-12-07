@@ -3,8 +3,6 @@
 
 - 🖥 Diseñadora e ilustradora freelance.
 
-- 🎮🏳️‍⚧️ Gamer y bien Queer.
-
 <br>
 
 > 🎓 Ingeniería en tecnoligías de la Información y Diseño industrial.
