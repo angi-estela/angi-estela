@@ -17,12 +17,10 @@
     <th width="500px">
       Diseño
       <br/>
-      <sub>Programas y Apps de diseño</sub>
      </th>
     <th width="500px">
       Programación
       <br/>
-      <sub>Lenguajes de Programación</sub>
      </th>
     
   </tr>
