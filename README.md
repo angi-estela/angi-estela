@@ -1,4 +1,5 @@
 ## Estela Ángel GoVi
+<img src="assets\angi-estela.png"  width ="20"/>
 - 🦻 Sorda con Implante Coclear.
 
 - 🖥 Diseñadora e ilustradora freelance.
@@ -27,8 +28,8 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=leaflet&logoColor=F33070"/>
-      <img src="assets\photoshop.png"  width ="50"/>
-      <img src="assets\ilustrador.png"  width ="50"/>
+      <img src="assets\photoshop.png"  width ="20"/>
+      <img src="assets\ilustrador.png"  width ="20"/>
       <img src="https://img.shields.io/badge/Autodesk-e6084f?style=for-the-badge&logo=autodesk&logoColor=white"/>
       </td>
     <td align="center">
@@ -44,7 +45,7 @@
 
 
 ### Redes Sociales
-[![angi.estela](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/880570183167655996)
+<img src="assets\discord.png"  width ="20"/>(https://discordapp.com/users/880570183167655996)
 [![angi.estela](https://img.shields.io/badge/Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angi.estela/)
 [![angi.estela](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@angi.estela?_t=8hy5L4DRePV&_r=1)
 
