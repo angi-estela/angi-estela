@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="assets\procreate.png"  width ="30" Procreate/> 
+      <img src="assets\procreate.png"  width ="30"/> Procreate
       <br/>
       <img src="assets\photoshop.png"  width ="30"/> Photoshop
       <br/>
