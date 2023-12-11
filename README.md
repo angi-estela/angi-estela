@@ -1,5 +1,5 @@
 ## Estela Ángel GoVi
-<img src="assets\angi-estela.png"  width ="40"/>
+<img src="assets\angi-estela.png"  width ="60"/>
 - 🦻 Sorda con Implante Coclear.
 
 - 🖥 Diseñadora e ilustradora freelance.
