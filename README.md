@@ -30,7 +30,7 @@
       <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
       <img src="assets\photoshop.png"/>
       <img src="https://img.shields.io/badge/Illustrator-260600?style=for-the-badge&logo=adobeillustrator&logoColor=ff401f"/>
-      <img src="https://img.shields.io/badge/Autodesk-e6084f?style=for-the-badge&logo=autodesk&logoColor=white" size 10/>
+      <img src="https://img.shields.io/badge/Autodesk-e6084f?style=for-the-badge&logo=autodesk&logoColor=white" style="width:200px;"/>
       </td>
     <td align="center">
       <img src="https://img.shields.io/badge/C%2B%2B-044f88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
