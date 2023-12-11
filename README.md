@@ -1,13 +1,11 @@
 ## Estela Ángel GoVi
 <img src="assets\angi-estela.png"  width ="250"/>
 - 🦻 Sorda con Implante Coclear.
-
 - 🖥 Diseñadora e ilustradora freelance.
 
 <br>
 
 > 🎓 Ingeniería en Tecnoligías de la Información y Diseño industrial.
-
 > 🏠 Puebla, Pue. México.
 
 <br>
@@ -27,13 +25,13 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="assets\procreate.png"  width ="30"/>Procreate
+      <img src="assets\procreate.png"  width ="30"/> Procreate
       <br/>
-      <img src="assets\photoshop.png"  width ="30"/>Photoshop
+      <img src="assets\photoshop.png"  width ="30"/> Photoshop
       <br/>
-      <img src="assets\ilustrador.png"  width ="30"/>Illustrator
+      <img src="assets\ilustrador.png"  width ="30"/> Illustrator
       <br/>
-      <img src="assets\autocad.png"  width ="30"/>Autocad
+      <img src="assets\autocad.png"  width ="30"/> Autocad
       </td>
     <td align="center">
       <img src="https://img.shields.io/badge/C%2B%2B-044f88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
