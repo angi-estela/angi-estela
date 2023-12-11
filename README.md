@@ -28,8 +28,11 @@
   <tr>
     <td align="center">
       <img src="assets\procreate.png"  width ="30"/>Procreate
+      <br/>
       <img src="assets\photoshop.png"  width ="30"/>Photoshop
-      <img src="assets\ilustrador.png"  width ="30"/>Illustratod
+      <br/>
+      <img src="assets\ilustrador.png"  width ="30"/>Illustrator
+      <br/>
       <img src="assets\autocad.png"  width ="30"/>Autocad
       </td>
     <td align="center">
