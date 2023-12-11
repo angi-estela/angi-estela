@@ -45,7 +45,7 @@
 
 
 ### Redes Sociales
-<img src="assets\discord.png"  width ="20"/>(https://discordapp.com/users/880570183167655996)
+[![angi.estela](assets\discord.png)](https://discordapp.com/users/880570183167655996)
 [![angi.estela](https://img.shields.io/badge/Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angi.estela/)
 [![angi.estela](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@angi.estela?_t=8hy5L4DRePV&_r=1)
 
