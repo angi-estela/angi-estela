@@ -27,9 +27,8 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=leaflet&logoColor=F33070"/>
-      <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
       <img src="assets\photoshop.png"  width ="50"/>
-      <img src="https://img.shields.io/badge/Illustrator-260600?style=for-the-badge&logo=adobeillustrator&logoColor=ff401f"/>
+      <img src="assets\ilustrador.png"  width ="50"/>
       <img src="https://img.shields.io/badge/Autodesk-e6084f?style=for-the-badge&logo=autodesk&logoColor=white"/>
       </td>
     <td align="center">
