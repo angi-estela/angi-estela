@@ -1,7 +1,5 @@
 ## Estela Ángel GoVi
-
-<img src="assets\angi-estela.png"  width ="60"/>
-
+<img src="assets\angi-estela.png"  width ="100"/>
 - 🦻 Sorda con Implante Coclear.
 
 - 🖥 Diseñadora e ilustradora freelance.
@@ -29,10 +27,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="assets\procreate.png"  width ="25"/>
-      <img src="assets\photoshop.png"  width ="25"/>
-      <img src="assets\ilustrador.png"  width ="25"/>
-      <img src="assets\autocad.png"  width ="25"/>
+      <img src="assets\procreate.png"  width ="30"/>
+      <img src="assets\photoshop.png"  width ="30"/>
+      <img src="assets\ilustrador.png"  width ="30"/>
+      <img src="assets\autocad.png"  width ="30"/>
       </td>
     <td align="center">
       <img src="https://img.shields.io/badge/C%2B%2B-044f88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
