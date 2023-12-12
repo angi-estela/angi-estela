@@ -1,6 +1,6 @@
 ## Estela Ángel GoVi
 
-<img src="assets\angi-estela.jpg" style= width: 200/>
+<img src="assets\angi-estela.jpg"/>
 
 - 🦻 Sorda con Implante Coclear.
 
