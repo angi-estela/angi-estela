@@ -27,4 +27,3 @@ ___
 #### Lenguajes de programación
 [![Programación](https://skillicons.dev/icons?i=androidstudio,react,swift,c,cpp,html,css,php,firebase&perline=5)](https://skillicons.dev)
 
-___
