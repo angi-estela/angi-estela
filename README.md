@@ -20,14 +20,13 @@ ___
 [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,figma&perline=6)](https://skillicons.dev)
 
 #### Lenguajes de programación
-[![Diseño](https://skillicons.dev/icons?i=androidstudio,react,swift,c,cpp,html,css,php,firebase&perline=5)](https://skillicons.dev)
+[![Programación](https://skillicons.dev/icons?i=androidstudio,react,swift,c,cpp,html,css,php,firebase&perline=5)](https://skillicons.dev)
 
 ___
 
 ### Redes Sociales
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord" link="https://discordapp.com/users/880570183167655996" />
-  </a>
+[![angi.estela](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/880570183167655996)
+
 [![angi.estela](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/880570183167655996)
 [![angi.estela](https://img.shields.io/badge/Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angi.estela/)
 [![angi.estela](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@angi.estela?_t=8hy5L4DRePV&_r=1)
