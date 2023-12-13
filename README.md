@@ -26,9 +26,8 @@ ___
 
 ### Redes Sociales
 [![angi.estela](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/880570183167655996)
+[![angi.estela](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/angi.estela/)
 
-[![angi.estela](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/880570183167655996)
-[![angi.estela](https://img.shields.io/badge/Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angi.estela/)
 [![angi.estela](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@angi.estela?_t=8hy5L4DRePV&_r=1)
 
 
