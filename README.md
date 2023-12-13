@@ -15,6 +15,9 @@ ___
 
 ___
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela)](https://git.io/streak-stats)
+___
+
 ### Mis habilidades
 #### Programas y apps de diseño
 [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,figma&perline=6)](https://skillicons.dev)
