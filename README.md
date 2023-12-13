@@ -7,7 +7,7 @@ Disfruto dibujar ilustraciones y realizar diseños de interfaces para mejorar la
 
 - 🖥 Diseñadora e ilustradora freelance.
 
-<br>
+___
 
 > 🎓 Ingeniería en Tecnoligías de la Información y Diseño industrial.
 
@@ -21,6 +21,8 @@ ___
 
 <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=leaflet&logoColor=F33070"/>
 <img src="https://img.shields.io/badge/Autodesk-e6084f?style=for-the-badge&logo=autodesk&logoColor=white"/>
+
+___
 
 #### Lenguajes de programación
 [![Programación](https://skillicons.dev/icons?i=androidstudio,react,swift,c,cpp,html,css,php,firebase&perline=5)](https://skillicons.dev)
