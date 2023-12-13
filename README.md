@@ -4,6 +4,8 @@
 
 - 🖥 Diseñadora e ilustradora freelance.
 
+- 🖤 Me gusta dibujar ilustraciones y realizar diseños de interfaces para mejorar la experiencia de usuario.
+
 <br>
 
 > 🎓 Ingeniería en Tecnoligías de la Información y Diseño industrial.
