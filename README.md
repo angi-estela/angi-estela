@@ -36,6 +36,7 @@ ___
 ### Mis redes Sociales
 [![angi.estela](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/880570183167655996)
 [![angi.estela](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/angi.estela/)
+[![angi.estela](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/angi.estela/)
 
 [![angi.estela](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@angi.estela?_t=8hy5L4DRePV&_r=1)
 
