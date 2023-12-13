@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 ## Estela Ángel GoVi
 
 ### Sobre mi 
@@ -44,8 +47,8 @@ Disfruto dibujar ilustraciones y realizar diseños de interfaces para mejorar la
       <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffcb2b"/>
       <img src="https://img.shields.io/badge/Android-04242c?style=for-the-badge&logo=android&logoColor=32cd82"/>
       <img src="https://img.shields.io/badge/React native-1c2c4c?style=for-the-badge&logo=react&logoColor=88dded"/>
-      <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
-</p>
+      <i class="devicon-android-plain"></i>
+          
     </td>
   </tr>
   </table>
