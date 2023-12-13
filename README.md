@@ -17,12 +17,10 @@ ___
 
 ### Habilidades
 #### Programas y apps de diseño
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,blender,figma&perline=3)](https://skillicons.dev)
+[![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,figma&perline=6)](https://skillicons.dev)
 
 #### Lenguajes de programación
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,swift,c,cpp,html,css,php,firebase" />
-  </a>
+[![Diseño](https://skillicons.dev/icons?i=androidstudio,react,swift,c,cpp,html,css,php,firebase&perline=4)](https://skillicons.dev)
 
 ___
 
