@@ -36,6 +36,7 @@ Disfruto dibujar ilustraciones y realizar diseños de interfaces para mejorar la
     <td align="center">
       <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=leaflet&logoColor=F33070"/>
       <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="65" height="65"/>
       <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
       <img src="https://img.shields.io/badge/Illustrator-260600?style=for-the-badge&logo=adobeillustrator&logoColor=ff401f"/>
       <img src="https://img.shields.io/badge/Autodesk-e6084f?style=for-the-badge&logo=autodesk&logoColor=white"/>
@@ -47,7 +48,7 @@ Disfruto dibujar ilustraciones y realizar diseños de interfaces para mejorar la
       <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffcb2b"/>
       <img src="https://img.shields.io/badge/Android-04242c?style=for-the-badge&logo=android&logoColor=32cd82"/>
       <img src="https://img.shields.io/badge/React native-1c2c4c?style=for-the-badge&logo=react&logoColor=88dded"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="65" height="65"/>
     </td>
   </tr>
   </table>
