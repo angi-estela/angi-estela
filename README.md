@@ -14,9 +14,6 @@ ___
 > 🏠 Puebla, Pue. México.
 
 ___
-### Mis stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-___
 
 ### Mis habilidades
 #### Programas y apps de diseño
@@ -29,6 +26,10 @@ ___
 
 #### Lenguajes de programación
 [![Programación](https://skillicons.dev/icons?i=androidstudio,react,swift,c,cpp,html,css,php,firebase&perline=5)](https://skillicons.dev)
+
+___
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ___
 
