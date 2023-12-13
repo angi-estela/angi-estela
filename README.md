@@ -17,11 +17,10 @@ ___
 
 ### Habilidades
 #### Programas y apps de diseño
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,blender,figma" />
   </a>
-</p>
+
 
 
 ### Redes Sociales
