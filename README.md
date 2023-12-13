@@ -1,6 +1,7 @@
 ## Estela Ángel GoVi
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true&locale=es&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true&locale=es)](https://git.io/streak-stats)
+
 ___
 
 ### Sobre mi 
