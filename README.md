@@ -13,43 +13,15 @@ Disfruto dibujar ilustraciones y realizar diseños de interfaces para mejorar la
 
 > 🏠 Puebla, Pue. México.
 
-<br>
+___
 
 ### Habilidades
-<table border="0">
-    <tr>
-    <th width="500px">
-      Diseño
-      <br/>
-     </th>
-    <th width="500px">
-      Programación
-      <br/>
-     </th>
-    
-  </tr>
-  <tr>
-    <td align="center">
-    <p align="center">
+#### Programas y apps de diseño
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=ps,kubernetes,docker,c,vim" />
   </a>
 </p>
-      <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=leaflet&logoColor=F33070"/>
-      <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
-      <img src="https://img.shields.io/badge/Illustrator-260600?style=for-the-badge&logo=adobeillustrator&logoColor=ff401f"/>
-      <img src="https://img.shields.io/badge/Autodesk-e6084f?style=for-the-badge&logo=autodesk&logoColor=white"/>
-      </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C%2B%2B-044f88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PHP-474a8a?style=for-the-badge&logo=PHP&logoColor=white"/>
-      <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffcb2b"/>
-      <img src="https://img.shields.io/badge/Android-04242c?style=for-the-badge&logo=android&logoColor=32cd82"/>
-      <img src="https://img.shields.io/badge/React native-1c2c4c?style=for-the-badge&logo=react&logoColor=88dded"/>
-    </td>
-  </tr>
-  </table>
 
 
 ### Redes Sociales
