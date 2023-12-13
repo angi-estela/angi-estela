@@ -1,6 +1,8 @@
 ## Estela Ángel GoVi
 
-#### 🖤 Disfruto dibujar ilustraciones y realizar diseños de interfaces para mejorar la experiencia de usuario.
+### Sobre mi 
+
+🖤 Disfruto dibujar ilustraciones y realizar diseños de interfaces para mejorar la experiencia de usuario.
 
 - 🦻 Sorda con Implante Coclear.
 
