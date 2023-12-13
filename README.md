@@ -15,7 +15,7 @@ Disfruto dibujar ilustraciones y realizar diseños de interfaces para mejorar la
 
 ___
 
-### Habilidades
+### Mis habilidades
 #### Programas y apps de diseño
 [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,figma&perline=6)](https://skillicons.dev)
 
@@ -27,7 +27,7 @@ ___
 
 ___
 
-### Redes Sociales
+### Mis redes Sociales
 [![angi.estela](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/880570183167655996)
 [![angi.estela](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/angi.estela/)
 
