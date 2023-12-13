@@ -1,7 +1,11 @@
 ## Estela Ángel GoVi
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+___
+
 ### Sobre mi 
-Disfruto dibujar ilustraciones y realizar diseños de interfaces para mejorar la experiencia de usuario.
+Disfruto realizar proyectos para apoyar a las personas con discapacidades auditivas, me gusta dibujar ilustraciones y diseñar interfaces para mejorar la experiencia de usuario.
 
 - 🦻 Sorda con Implante Coclear.
 
@@ -26,10 +30,6 @@ ___
 
 #### Lenguajes de programación
 [![Programación](https://skillicons.dev/icons?i=androidstudio,react,swift,c,cpp,html,css,php,firebase&perline=5)](https://skillicons.dev)
-
-___
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ___
 
