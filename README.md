@@ -44,8 +44,7 @@ Disfruto dibujar ilustraciones y realizar diseños de interfaces para mejorar la
       <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-474a8a?style=for-the-badge&logo=PHP&logoColor=white"/>
       <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffcb2b"/>
-      <img src="https://img.shields.io/badge/Android-04242c?style=for-the-badge&logo=android&logoColor=32cd82"/>
-      <img src="https://img.shields.io/badge/React native-1c2c4c?style=for-the-badge&logo=react&logoColor=88dded"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40" height="40"/>
     </td>
   </tr>
