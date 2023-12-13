@@ -21,7 +21,12 @@ ___
     <img src="https://skillicons.dev/icons?i=ps,ai,blender,figma" />
   </a>
 
+#### Lenguajes de programación
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,swift,,c,cpp,html,css,php,firebase" />
+  </a>
 
+___
 
 ### Redes Sociales
 [![angi.estela](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/880570183167655996)
