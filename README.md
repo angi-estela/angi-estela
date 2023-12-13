@@ -23,7 +23,7 @@ ___
 
 #### Lenguajes de programación
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,swift,,c,cpp,html,css,php,firebase" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,swift,c,cpp,html,css,php,firebase" />
   </a>
 
 ___
