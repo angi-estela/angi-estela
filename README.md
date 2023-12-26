@@ -5,7 +5,7 @@
 ___
 
 ### Sobre mi 
-Disfruto realizar proyectos para apoyar a las personas con discapacidades auditivas, me gusta dibujar ilustraciones y diseñar UI para mejorar la UX.
+Estudiante de Ingeniería en Tecnologías de la Información y Diseño industrial; me gusta trabajar y participar en proyectos que apoyen a las personas con discapacidades auditivas y disfruto mucho dibujar ilustraciones y el diseño UIs para mejorar la UX.
 
 - 🦻 Sorda con Implante Coclear.
 
@@ -24,14 +24,14 @@ ___
 [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=10)](https://skillicons.dev)
 ___
 
-#### 
+#### Programación
 [![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=10)](https://skillicons.dev)
 
 ___
 
 
 #### IDE
-[![Programación](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,firebase,linux&perline=10)](https://skillicons.dev)
+[![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,firebase,linux&perline=10)](https://skillicons.dev)
 
 ___
 
