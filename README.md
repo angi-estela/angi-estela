@@ -5,7 +5,7 @@
 ___
 
 ### Sobre mi 
-Disfruto realizar proyectos para apoyar a las personas con discapacidades auditivas, me gusta dibujar ilustraciones y diseñar interfaces para mejorar la experiencia de usuario.
+Disfruto realizar proyectos para apoyar a las personas con discapacidades auditivas, me gusta dibujar ilustraciones y diseñar UI para mejorar la UX.
 
 - 🦻 Sorda con Implante Coclear.
 
