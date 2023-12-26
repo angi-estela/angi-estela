@@ -31,7 +31,7 @@ ___
 
 
 #### IDE
-[![Programación](https://skillicons.dev/icons?i=linux,vscode,visualstudio,androidstudio,powershell,firebase&perline=5)](https://skillicons.dev)
+[![Programación](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,firebase,linux&perline=5)](https://skillicons.dev)
 
 ___
 
