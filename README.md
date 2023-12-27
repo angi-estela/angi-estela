@@ -21,6 +21,11 @@ ___
 
 ### Mis habilidades
 #### Programas y apps de diseño
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5" />
+  </a>
+</p>
 [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
 ___
 
