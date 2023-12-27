@@ -1,11 +1,8 @@
 ## Estela Ángel GoVi
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true&locale=es" />
-  </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true&locale=es)](https://git.io/streak-stats)
 
+___
 
 ### Sobre mi 
 Estudiante de Ingeniería en Tecnologías de la Información y Diseño industrial; me gusta trabajar y participar en proyectos que apoyen a las personas con discapacidades auditivas y disfruto mucho dibujar ilustraciones y el diseño UIs para mejorar la UX.
