@@ -21,20 +21,20 @@ ___
 
 ### Mis habilidades
 #### Programas y apps de diseño
-[![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=10)](https://skillicons.dev)
+[![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
 ___
 
 #### Programación
-[![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=10)](https://skillicons.dev)
+[![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5)](https://skillicons.dev)
 
 ___
 
 
 #### IDE
-[![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,firebase,linux&perline=10)](https://skillicons.dev)
+[![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,firebase,linux&perline=5)](https://skillicons.dev)
 
 ___
 
 #### Aprendiendo
-[![Aprendiendo](https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=10)](https://skillicons.dev)
+[![Aprendiendo](https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5)](https://skillicons.dev)
 
