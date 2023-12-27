@@ -5,7 +5,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true&locale=es" />
   </a>
 </p>
-___
+
 
 ### Sobre mi 
 Estudiante de Ingeniería en Tecnologías de la Información y Diseño industrial; me gusta trabajar y participar en proyectos que apoyen a las personas con discapacidades auditivas y disfruto mucho dibujar ilustraciones y el diseño UIs para mejorar la UX.
@@ -23,34 +23,20 @@ ___
 ___
 
 ### Mis habilidades
-#### Programas y apps de diseño
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5" />
-  </a>
-</p>
+#### Programas y apps de Diseño
+  [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
 ___
 
-#### Programación
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5" />
-  </a>
-</p>
+#### Lenguajes de Programación
+[![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5)](https://skillicons.dev)
+
 ___
 
 
 #### IDE
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,firebase,linux&perline=5" />
-  </a>
-</p>
+[![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,firebase,linux&perline=5)](https://skillicons.dev)
+
 ___
 
-#### Aprendiendo
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5" />
-  </a>
-</p>
+#### Cosas que estoy aprendiendo
+[![Aprendiendo](https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5)](https://skillicons.dev)
