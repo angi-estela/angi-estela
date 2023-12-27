@@ -62,7 +62,7 @@ ___
   </tr>
   <tr>
     <td align="center">
-      [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
+      (https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5)(https://skillicons.dev)
       </td>
     <td align="center">
       [![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5)](https://skillicons.dev)
