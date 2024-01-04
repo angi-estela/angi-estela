@@ -1,15 +1,14 @@
-## Estela Ángel GoVi
+# Hola, mi nombre es Estela!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true&locale=es)](https://git.io/streak-stats)
+* 🖤 Me gusta dibujar ilustraciones y diseñar UIs.
 
-___
+* 🖥 Actualmente estoy avanzando con mi tesis y trabajando como diseñadora e ilustradora independiente.
 
-### Sobre mi 
-Estudiante de Ingeniería en Tecnologías de la Información y Diseño industrial; me gusta trabajar y participar en proyectos que apoyen a las personas con discapacidades auditivas y disfruto mucho dibujar ilustraciones y el diseño UIs para mejorar la UX.
+* ✉ Encuentrame en [Linkedin](https://www.linkedin.com/in/angi-estela)
 
-- 🦻 Sorda con Implante Coclear.
+* ✨ Mi sueño es realizar y participar en proyectos que apoyen a las discapacidades auditivas.
 
-- 🖥 Diseñadora e ilustradora freelance.
+* 🦻 Dato curioso: soy sorda y uso un Implante Coclear.
 
 ___
 
@@ -19,12 +18,16 @@ ___
 
 ___
 
-### Mis habilidades
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true&locale=es) align="right"](https://git.io/streak-stats)
+
+___
+
+## Mis habilidades
 #### Programas y apps de Diseño
   [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
 ___
 
-#### Lenguajes de Programación
+### Lenguajes de Programación
 [![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5)](https://skillicons.dev)
 
 ___
