@@ -10,7 +10,7 @@
 
 * ✉ Encuentrame en [Linkedin](https://www.linkedin.com/in/angi-estela)
 
-* 🦻 Dato curioso: soy sorda, uso un Implante Coclear.
+* 💡 Dato curioso: soy sorda, uso un Implante Coclear.
 
 ___
 
