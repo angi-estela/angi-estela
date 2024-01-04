@@ -1,5 +1,9 @@
 # Hola, mi nombre es Estela!
 
+<a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true&locale=es" align="right"/>
+      </a>
+
 * 🤍 Me gusta dibujar ilustraciones y diseñar UIs.
 
 * 🖥 Actualmente estoy avanzando con mi tesis y trabajando como diseñadora e ilustradora independiente.
