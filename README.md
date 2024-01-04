@@ -12,12 +12,7 @@
 
 ___
 
-> 🎓 Ingeniería en Tecnoligías de la Información y Diseño industrial.
-
-> 🏠 Puebla, Pue. México.
-
-___
-
+## Mis habilidades
 <table border="0">
     <tr>
     <th width="500px">
