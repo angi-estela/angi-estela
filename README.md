@@ -58,7 +58,9 @@ ___
   </tr>
   <tr>
     <td align="center">
-      [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      </a>
       </td>
     <td align="center">
       [![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5)](https://skillicons.dev)
