@@ -16,6 +16,8 @@
 
 <br/>
 
+### Mis habilidades
+
 #### Programas y apps de Diseño
   [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
 ___
