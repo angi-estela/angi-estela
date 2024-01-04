@@ -14,12 +14,6 @@
 
 ___
 
-## Mis contribuciónes
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angi-estela&theme=transparent&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-___
-
 ## Mis habilidades
 
 #### Programas y apps de Diseño
