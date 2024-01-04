@@ -20,10 +20,10 @@ ___
 
 ### Programas y apps de Diseño
   [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
-  
+
 <br/>
 
-#### Lenguajes de Programación
+### Lenguajes de Programación
 [![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5)](https://skillicons.dev)
 
 <br/>
