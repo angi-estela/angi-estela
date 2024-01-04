@@ -1,5 +1,7 @@
 # Hola, mi nombre es Estela! ✌
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500" height="320" />
+
 ## Un poco sobre mi ☕
 
 * 🤍 Me gusta dibujar ilustraciones y diseñar UIs.
