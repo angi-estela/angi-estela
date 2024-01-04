@@ -18,15 +18,34 @@ ___
 
 #### Programas y apps de Diseño
   [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5" />
+      </a>
+  </p>
 
 
 #### Lenguajes de Programación
 [![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5)](https://skillicons.dev)
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5" />
+      </a>
+  </p>
 
 
 #### IDE
 [![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,react,powershell,firebase,linux&perline=5)](https://skillicons.dev)
-
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,react,powershell,firebase,linux&perline=5" />
+      </a>
+  </p>
 
 #### Cosas que estoy aprendiendo
 [![Aprendiendo](https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5)](https://skillicons.dev)
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5" />
+      </a>
+  </p>
