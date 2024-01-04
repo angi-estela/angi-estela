@@ -4,9 +4,9 @@
 
 * 🖥 Actualmente estoy avanzando con mi tesis y trabajando como diseñadora e ilustradora independiente.
 
-* ✉ Encuentrame en [Linkedin](https://www.linkedin.com/in/angi-estela)
-
 * ✨ Mi sueño es realizar y participar en proyectos que apoyen a las discapacidades auditivas.
+
+* ✉ Encuentrame en [Linkedin](https://www.linkedin.com/in/angi-estela)
 
 * 🦻 Dato curioso: soy sorda, uso un Implante Coclear.
 
@@ -27,16 +27,44 @@ ___
   [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
 ___
 
-### Lenguajes de Programación
+#### Lenguajes de Programación
 [![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5)](https://skillicons.dev)
 
 ___
 
 
-### IDE
+#### IDE
 [![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,react,powershell,firebase,linux&perline=5)](https://skillicons.dev)
 
 ___
 
 #### Cosas que estoy aprendiendo
 [![Aprendiendo](https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5)](https://skillicons.dev)
+<table border="0">
+    <tr>
+    <th width="500px">
+      Diseño
+      <br/>
+     </th>
+    <th width="500px">
+      Programación
+      <br/>
+     </th>
+     <th width="500px">
+      Aprendiendo
+      <br/>
+     </th>
+    
+  </tr>
+  <tr>
+    <td align="center">
+      [![Diseño](https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5)](https://skillicons.dev)
+      </td>
+    <td align="center">
+      [![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5)](https://skillicons.dev)
+    </td>
+    <td align="center">
+    [![Aprendiendo](https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5)](https://skillicons.dev)
+    <td>
+  </tr>
+  </table>
