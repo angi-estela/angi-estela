@@ -1,6 +1,6 @@
 # Hola, mi nombre es Estela!
 
-* 🖤 Me gusta dibujar ilustraciones y diseñar UIs.
+* 🤍 Me gusta dibujar ilustraciones y diseñar UIs.
 
 * 🖥 Actualmente estoy avanzando con mi tesis y trabajando como diseñadora e ilustradora independiente.
 
