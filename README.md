@@ -1,6 +1,6 @@
 # Hola, mi nombre es Estela! ✌
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500" height="320" />
 
 ## Un poco sobre mi ☕
 
