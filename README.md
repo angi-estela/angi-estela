@@ -14,8 +14,6 @@
 
 * 🦻 Dato curioso: soy sorda, uso un Implante Coclear.
 
-___
-
 <table border="0">
     <tr>
     <th width="500px">
