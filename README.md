@@ -8,7 +8,7 @@
 
 * ✨ Mi sueño es realizar y participar en proyectos que apoyen a las discapacidades auditivas.
 
-* 🦻 Dato curioso: soy sorda y uso un Implante Coclear.
+* 🦻 Dato curioso: soy sorda, uso un Implante Coclear.
 
 ___
 
