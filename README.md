@@ -43,6 +43,5 @@ ___
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5" />
       </a>
-    <td>
-  </tr>
+    </tr>
   </table>
