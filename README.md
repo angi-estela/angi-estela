@@ -43,15 +43,15 @@ ___
 <table border="0">
     <tr>
     <th width="500px">
-      Diseño
+      Programas de Diseño
       <br/>
      </th>
     <th width="500px">
-      Programación
+      Lenguajes de programación
       <br/>
      </th>
      <th width="500px">
-      Aprendiendo
+      Cosas que estoy aprendiendo
       <br/>
      </th>
     
@@ -59,14 +59,18 @@ ___
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+        <img src="https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5" />
       </a>
-      </td>
-    <td align="center">
-      [![Programación](https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5)](https://skillicons.dev)
     </td>
     <td align="center">
-    [![Aprendiendo](https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5)](https://skillicons.dev)
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5" />
+      </a>
     <td>
   </tr>
   </table>
