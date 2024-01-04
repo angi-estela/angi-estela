@@ -18,15 +18,15 @@
 
 <table border="0">
     <tr>
-    <th width="500px">
+    <th width="400px">
       Programas de Diseño
       <br/>
      </th>
-    <th width="500px">
+    <th width="400px">
       Lenguajes de programación
       <br/>
      </th>
-     <th width="500px">
+     <th width="400px">
       Cosas que estoy aprendiendo
       <br/>
      </th>
