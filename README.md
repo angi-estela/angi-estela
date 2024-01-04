@@ -33,7 +33,7 @@ ___
 ___
 
 
-#### IDE
+### IDE
 [![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,react,powershell,firebase,linux&perline=5)](https://skillicons.dev)
 
 ___
