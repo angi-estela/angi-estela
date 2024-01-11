@@ -43,7 +43,6 @@
     </tr>
   </table>
 
-
   <table border="0">
     <tr>
     <th width="400px">
