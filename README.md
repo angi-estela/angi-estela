@@ -15,7 +15,6 @@
 * 💡 Dato curioso: soy sorda, uso un Implante Coclear.
 
 
-
 ## Mis habilidades ✏
 
 <table border="0">
