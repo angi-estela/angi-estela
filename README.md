@@ -56,7 +56,7 @@
 ### Mis proyectos 💾
 * [Burbuja de accesibilidad](https://github.com/angi-estela/burbujaAccesibilidad): App para realizar el dictado a textto y LSM en una burbuja flotante.
 
-* [Coclea Virtual](https://github.com/AbrahamFB/C-clea-Virtual): Plataforma para que los estudiantes puedan solicitar un transcriptor de LSM para transcribir las videollamadas.
+* [Cóclea Virtual](https://github.com/AbrahamFB/C-clea-Virtual): Plataforma para que los estudiantes puedan solicitar un transcriptor de LSM para transcribir las videollamadas.
 
 * Base de datos de librería: Realizada en Firebase para desarrollo web.
 
