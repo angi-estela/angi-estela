@@ -48,6 +48,7 @@
 
   <table border="0">
     <tr>
+    <th width="400px">
       IDE
       <br/>
      </th>
