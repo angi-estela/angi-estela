@@ -33,6 +33,8 @@ ___
 #### Cosas que estoy aprendiendo
 [![Aprendiendo](https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5)](https://skillicons.dev)
 
+___
+
 #### Proyectos
 * Proyecto de tesis [Burbuja de accesibilidad](https://github.com/angi-estela/burbujaAccesibilidad).
 
@@ -43,3 +45,5 @@ ___
 * Machine learning de instructivo para huertos en Puebla.
 
 * Animación informativa de donación de sangre para el Hospital del Niño Poblano.
+
+* Investigación de material didactico para las infancias con discapacidades audiovisuales.
