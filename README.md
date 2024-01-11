@@ -42,8 +42,10 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=4" />
       </a>
+    </td>
     </tr>
   </table>
+
   <table border="0">
     <tr>
       IDE
@@ -64,6 +66,7 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=4" />
       </a>
+    </td>
     </tr>
   </table>
 
