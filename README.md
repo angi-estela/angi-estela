@@ -19,12 +19,14 @@
 <table border="0">
     <tr>
     <th width="400px">
-      Programas de Diseño
+      Diseño
       <br/>
+      <sub>Programas, apps de diseño, ilustración y modelado 3D</sub>
      </th>
     <th width="400px">
-      Lenguajes de programación
+      Programación
       <br/>
+      <sub>Lenguajes de programación</sub>
      </th>
   </tr>
   <tr>
@@ -47,10 +49,12 @@
     <th width="400px">
       IDE
       <br/>
+      <sub>Entornos de desarrollo en los que trabajo</sub>
      </th>
      <th width="400px">
-      Cosas que estoy aprendiendo
+      Aprendiendo
       <br/>
+      <sub>Aún sigo tratando de mejorar</sub>
      </th>
   </tr>
   <tr>
