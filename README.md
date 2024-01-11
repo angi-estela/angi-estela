@@ -14,7 +14,7 @@
 
 * 💡 Dato curioso: soy sorda, uso un Implante Coclear.
 
-___
+
 
 ## Mis habilidades ✏
 
@@ -51,7 +51,6 @@ ___
     </tr>
   </table>
 
-___
 
 ### Mis proyectos 🗂
 * [Burbuja de accesibilidad](https://github.com/angi-estela/burbujaAccesibilidad): App para realizar el dictado a textto y LSM en una burbuja flotante.
