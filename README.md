@@ -35,7 +35,7 @@ ___
 
 ___
 
-#### Proyectos
+### Proyectos
 * Proyecto de tesis [Burbuja de accesibilidad](https://github.com/angi-estela/burbujaAccesibilidad).
 
 * Colaboración en [Coclea Virtual](https://github.com/AbrahamFB/C-clea-Virtual).
