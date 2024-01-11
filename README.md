@@ -36,14 +36,14 @@ ___
 ___
 
 ### Mis proyectos 🗂
-* Proyecto de tesis [Burbuja de accesibilidad](https://github.com/angi-estela/burbujaAccesibilidad).
+* [Burbuja de accesibilidad](https://github.com/angi-estela/burbujaAccesibilidad): App para realizar el dictado a textto y LSM en una burbuja flotante.
 
-* Colaboración en [Coclea Virtual](https://github.com/AbrahamFB/C-clea-Virtual).
+* [Coclea Virtual](https://github.com/AbrahamFB/C-clea-Virtual): Plataforma para que los estudiantes puedan solicitar un transcriptor de LSM para transcribir las videollamadas.
 
-* Base de datos de librería en Firebase para desarrollo web.
+* Base de datos de librería: Realizada en Firebase para desarrollo web.
 
-* Machine learning de instructivo para huertos en Puebla.
+* Machine learning de instructivo para huertos en Puebla: Realizada en matlab como proyecto de Inteligencia artificial.
 
-* Animación informativa de donación de sangre para el Hospital del Niño Poblano.
+* Animación de ddonación de sangre para los niños con cancer: Video animado para informar la importancia de la donación de sanre y los requisitos para realizarla.
 
-* Investigación de material didactico para las infancias con discapacidades audiovisuales.
+* Investigación de material didactico para las infancias con discapacidades audiovisuales
