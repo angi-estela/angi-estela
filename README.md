@@ -10,9 +10,11 @@
 
 * ✨ Mi sueño es realizar y participar en proyectos que apoyen a las discapacidades auditivas.
 
-* ✉ Encuentrame en [Linkedin](https://www.linkedin.com/in/angi-estela)
-
 * 💡 Dato curioso: soy sorda, uso un Implante Coclear.
+
+* 📒 Mira mis ilustraciones y diseños en [Behance](https://www.behance.net/angi-estela)
+
+* ✉ Encuentrame en [Linkedin](https://www.linkedin.com/in/angi-estela)
 
 
 ## Mis habilidades ✏
@@ -51,7 +53,7 @@
   </table>
 
 
-### Mis proyectos 🗂
+### Mis proyectos 💾
 * [Burbuja de accesibilidad](https://github.com/angi-estela/burbujaAccesibilidad): App para realizar el dictado a textto y LSM en una burbuja flotante.
 
 * [Coclea Virtual](https://github.com/AbrahamFB/C-clea-Virtual): Plataforma para que los estudiantes puedan solicitar un transcriptor de LSM para transcribir las videollamadas.
