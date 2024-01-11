@@ -2,19 +2,16 @@
 
 <img align="right" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500" height="320" />
 
+
 ## Un poco sobre mi ☕
 
 * ❤ Me gusta dibujar ilustraciones y diseñar UIs para mejorar la UX.
 
-* 💼 Actualmente estoy avanzando con mi tesis y trabajando como diseñadora e ilustradora independiente.
+* 👓 Actualmente estoy avanzando con mi tesis y trabajando como diseñadora e ilustradora independiente.
 
 * ✨ Mi sueño es realizar y participar en proyectos que apoyen a las discapacidades auditivas.
 
 * 💡 Dato curioso: soy sorda, uso un Implante Coclear.
-
-* 🔮 Mira mis ilustraciones y diseños en [Behance](https://www.behance.net/angi-estela)
-
-* 📄 Encuentrame en [Linkedin](https://www.linkedin.com/in/angi-estela)
 
 
 ## Mis habilidades ✏
@@ -65,3 +62,10 @@
 * Animación de ddonación de sangre para los niños con cancer: Video animado para informar la importancia de la donación de sanre y los requisitos para realizarla.
 
 * Investigación de material didactico para las infancias con discapacidades audiovisuales
+
+
+### Mi portafolio 💼
+
+* 🔮 Mira mis ilustraciones y diseños en [Behance](https://www.behance.net/angi-estela)
+
+* 📄 Encuentrame en [Linkedin](https://www.linkedin.com/in/angi-estela)
