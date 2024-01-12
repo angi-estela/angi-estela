@@ -72,7 +72,7 @@
 
 * Machine learning de instructivo para huertos en Puebla: Realizada en matlab como proyecto de Inteligencia artificial.
 
-* Animación de ddonación de sangre para los niños con cancer: Video animado para informar la importancia de la donación de sanre y los requisitos para realizarla.
+* Animación de donación de sangre para los niños con cancer: Video animado para el Hospital del Niño Poblano para informar la importancia de la donación de sanre y los requisitos para realizarla.
 
 * Investigación de material didactico para las infancias con discapacidades audiovisuales
 
