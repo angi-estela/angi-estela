@@ -20,13 +20,9 @@
     <tr>
     <th width="400px">
       Diseño
-      <br/>
-      <sub>Programas y apps</sub>
      </th>
     <th width="400px">
       Programación
-      <br/>
-      <sub>Lenguajes de programación</sub>
      </th>
   </tr>
   <tr>
@@ -47,13 +43,9 @@
     <tr>
     <th width="400px">
       Entorno de desarrollo
-      <br/>
-      <sub>IDEs en los que trabajo</sub>
      </th>
      <th width="400px">
-      Aprendiendo
-      <br/>
-      <sub>Aún sigo tratando de mejorar</sub>
+      Cosas que estoy aprendiendo
      </th>
   </tr>
   <tr>
