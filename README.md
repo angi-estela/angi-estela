@@ -18,10 +18,10 @@
 
 <table border="0">
     <tr>
-    <th width="400px">
+    <th width="600px">
       Diseño
      </th>
-    <th width="400px">
+    <th width="600px">
       Programación
      </th>
   </tr>
@@ -41,10 +41,10 @@
 
   <table border="0">
     <tr>
-    <th width="400px">
-      Entorno de desarrollo
+    <th width="600px">
+      Entornos de desarrollo
      </th>
-     <th width="400px">
+     <th width="600px">
       Cosas que estoy aprendiendo
      </th>
   </tr>
