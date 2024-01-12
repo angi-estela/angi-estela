@@ -7,7 +7,7 @@
 
 * ❤ Me gusta dibujar ilustraciones y diseñar UIs para mejorar la UX.
 
-* 👓 Actualmente estoy avanzando con mi tesis y trabajando como diseñadora e ilustradora independiente.
+* 📖 Actualmente estoy avanzando con mi tesis y trabajando como diseñadora e ilustradora independiente.
 
 * ✨ Mi sueño es realizar y participar en proyectos que apoyen a las discapacidades auditivas.
 
