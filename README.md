@@ -21,7 +21,7 @@
     <th width="400px">
       Diseño
       <br/>
-      <sub>Programas, apps de diseño, ilustración y modelado 3D</sub>
+      <sub>Programas y apps</sub>
      </th>
     <th width="400px">
       Programación
@@ -46,9 +46,9 @@
   <table border="0">
     <tr>
     <th width="400px">
-      IDE
+      Entorno de desarrollo
       <br/>
-      <sub>Entornos de desarrollo en los que trabajo</sub>
+      <sub>IDEs en los que trabajo</sub>
      </th>
      <th width="400px">
       Aprendiendo
