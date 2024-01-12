@@ -19,10 +19,10 @@
 <table border="0">
     <tr>
     <th width="600px">
-      Diseño
+      Programas de diseño
      </th>
     <th width="600px">
-      Programación
+      Lenguajes de programación
      </th>
   </tr>
   <tr>
