@@ -28,12 +28,12 @@
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=4" />
+        <img src="https://skillicons.dev/icons?i=ps,ai,blender,autocad,figma&perline=5" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=4" />
+        <img src="https://skillicons.dev/icons?i=swift,c,cpp,html,css,php,js&perline=5" />
       </a>
     </td>
     </tr>
@@ -51,12 +51,12 @@
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,react,powershell,firebase,linux&perline=4" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,react,powershell,firebase,linux&perline=5" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=4" />
+        <img src="https://skillicons.dev/icons?i=react,postman,eclipse,java,matlab,mysql,nodejs,py,qt,unity&perline=5" />
       </a>
     </td>
     </tr>
