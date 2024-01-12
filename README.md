@@ -63,7 +63,7 @@
   </table>
 
 
-### Mis proyectos 🚀
+## Mis proyectos 🚀
 * [Burbuja de accesibilidad](https://github.com/angi-estela/burbujaAccesibilidad): App para realizar el dictado a textto y LSM en una burbuja flotante.
 
 * [Cóclea Virtual](https://github.com/AbrahamFB/C-clea-Virtual): Plataforma para que los estudiantes puedan solicitar un transcriptor de LSM para transcribir las videollamadas.
@@ -77,7 +77,7 @@
 * Investigación de material didactico para las infancias con discapacidades audiovisuales
 
 
-### Mi portafolio 💼
+## Mi portafolio 💼
 
 * 🔮 Mira mis ilustraciones y diseños en [Behance](https://www.behance.net/angi-estela)
 
