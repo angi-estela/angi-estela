@@ -7,7 +7,7 @@
 
 * ❤ Me gusta dibujar y hacer ilustraciones digitales.
 
-* 📖 Actualmente estoy avanzando con mi tesis y trabajando como diseñadora e ilustradora independiente.
+* 📖 Actualmente estoy trabajando como diseñadora e ilustradora independiente.
 
 * ✨ Mi sueño es realizar y participar en proyectos que apoyen a las discapacidades auditivas.
 
