@@ -5,7 +5,7 @@
 
 ## Un poco sobre mi ☕
 
-* ❤ Me gusta dibujar ilustraciones y diseñar UIs para mejorar la UX.
+* ❤ Me gusta dibujar y hacer ilustraciones digitales.
 
 * 📖 Actualmente estoy avanzando con mi tesis y trabajando como diseñadora e ilustradora independiente.
 
